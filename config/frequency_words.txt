@@ -4,28 +4,12 @@ gitee
 wordpress
 
 DeepSeek
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-
-字节
-bytedance
-
-微软
-Microsoft
-AMD
+豆包
 
 谷歌
 google
 gemini
 deepmind
-
-chatgpt
-openai
-sora
 
 claude
 Anthropic
