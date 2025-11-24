@@ -1,6 +1,10 @@
 github
 gitee
 
+开源
+源码
+code
+
 wordpress
 
 DeepSeek
